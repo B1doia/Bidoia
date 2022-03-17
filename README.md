@@ -1,2 +1,1 @@
-# Bidoia
-Olá, meu nome é lucas!
+# Olá, meu nome é lucas!
